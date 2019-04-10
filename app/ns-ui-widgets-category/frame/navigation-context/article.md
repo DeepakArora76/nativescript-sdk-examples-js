@@ -1,7 +1,7 @@
 
 ### Passing context during navigation
 
-When you navigate to another page, you can pass context to the page with a `NavigationEntry` object. The navigaiton entry provides two different (optional) propertes to work with:
+When you navigate to another page, you can pass context to the page with a `NavigationEntry` object. The navigaiton entry provides two different (optional) properties to work with:
 - The `context` property
 <snippet id='nav-context-pass'/>
 <snippet id='nav-context-pass-ts'/>
